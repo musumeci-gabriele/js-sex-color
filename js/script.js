@@ -1,5 +1,5 @@
 // ISTRUZIONI PER L'UTENTE
-alert("Scrivi il tuo nome, il pc ti salutera', scrivendo il nome cambiandolo di colore a seconda del sesso. ")
+alert("Scrivi il tuo nome, il pc ti salutera', scrivendo il nome cambiandolo di colore a seconda del sesso. ");
 
 // INSERIRE IL NOME UTENTE
 var name = prompt("Scrivi il nome :");
