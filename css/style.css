@@ -20,10 +20,12 @@
   color: blue;
   background-color: inherit;
 }
+
 /* //MIX COMMAND */
 
 /* APPLICATIVI AL TITOLO/SALUTO */
 .container h1{
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
+
 /* //APPLICATIVI AL TITOLO/SALUTO */
