@@ -1,0 +1,29 @@
+/* MIX COMMAND */
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  width: 60%;
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.red{
+  color: red;
+  background-color: inherit;
+}
+.blue{
+  color: blue;
+  background-color: inherit;
+}
+/* //MIX COMMAND */
+
+/* APPLICATIVI AL TITOLO/SALUTO */
+.container h1{
+  text-transform: uppercase;
+}
+/* //APPLICATIVI AL TITOLO/SALUTO */
